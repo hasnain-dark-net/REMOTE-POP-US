@@ -15,4 +15,4 @@ A tiny demo that shows how to display a popup message on the same Windows machin
 2. Double-click `local_popup_demo.bat` or run it from Command Prompt:
 ```bat
 local_popup_demo.bat
-# REMOTE-POP-US
+
